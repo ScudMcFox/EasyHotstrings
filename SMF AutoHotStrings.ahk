@@ -1,5 +1,3 @@
-﻿#include %A_AppDataCommon%\SMF_AHK\_SMF_library.ahk
-
 #SingleInstance, Force
 SetBatchLines, -1
 
