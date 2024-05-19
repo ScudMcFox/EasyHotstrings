@@ -10,9 +10,10 @@ AutoHotkey v1 - Easy Auto-HotString-Manager
 **Create a HotString (example here "help"):**
 1. open the subfolder "hotstrings".
 2. create a ".txt" file. for example "help.txt".
-3. edit this "help.txt" file and put some text into it. example: "this is my first hostring help".
+3. edit this "help.txt" file and put some text into it. example: "this is my first helpfull hotstring".
 4. save the file.
 5. info: you created your first hotstring with this data. the script is reloading itself and your hotstring is ready.
+6. info: the script is set to 5 seconds scantime. every 5 seconds it checks for new hotstringfiles or changes.
 
 **How to use the "help"-HotString now:**
 1. you can use it anywhere but for an easy test, open NotePad.
@@ -24,3 +25,7 @@ AutoHotkey v1 - Easy Auto-HotString-Manager
 2. the filename you choose is the trigger for the HotString.
 3. if the filename is set to "hello.txt", the HotString would be ".hello" and inserts the content of hello.txt
 4. if the filename is set to "apples.txt", the HotString would be ".apples".
+
+**How to change a HotString:**
+1. just edit the ".txt" file and change the content.
+2. or just rename the ".txt" file to a different name/trigger.
