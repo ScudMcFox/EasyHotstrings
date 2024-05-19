@@ -1,2 +1,2 @@
-# EasyHotstrings
-AutoHotkey v1 - Easy Hotstring Manager
+# Easy AutoHotStrings
+AutoHotkey v1 - Easy Auto-HotString-Manager
